@@ -1,0 +1,82 @@
+[
+  {
+    "employee_id": "E001",
+    "name": "John Doe",
+    "department": "AI Engineering",
+    "role": "AI Engineer",
+    "manager": "Sarah Wilson",
+    "experience_years": 4
+  },
+  {
+    "employee_id": "E002",
+    "name": "Priya Sharma",
+    "department": "AI Engineering",
+    "role": "ML Engineer",
+    "manager": "Sarah Wilson",
+    "experience_years": 3
+  },
+  {
+    "employee_id": "E003",
+    "name": "David Kumar",
+    "department": "AI Engineering",
+    "role": "MLOps Engineer",
+    "manager": "Sarah Wilson",
+    "experience_years": 5
+  },
+  {
+    "employee_id": "E004",
+    "name": "Ananya Reddy",
+    "department": "Data Science",
+    "role": "Data Scientist",
+    "manager": "Rajesh Mehta",
+    "experience_years": 4
+  },
+  {
+    "employee_id": "E005",
+    "name": "Rahul Verma",
+    "department": "Data Science",
+    "role": "Senior Data Scientist",
+    "manager": "Rajesh Mehta",
+    "experience_years": 7
+  },
+  {
+    "employee_id": "E006",
+    "name": "Sneha Patel",
+    "department": "Cloud Engineering",
+    "role": "Cloud Engineer",
+    "manager": "Vikram Singh",
+    "experience_years": 6
+  },
+  {
+    "employee_id": "E007",
+    "name": "Amit Joshi",
+    "department": "AI Engineering",
+    "role": "GenAI Engineer",
+    "manager": "Sarah Wilson",
+    "experience_years": 5
+  },
+  {
+    "employee_id": "E008",
+    "name": "Neha Gupta",
+    "department": "AI Engineering",
+    "role": "Software Engineer",
+    "manager": "Sarah Wilson",
+    "experience_years": 3
+  },
+  {
+    "employee_id": "E009",
+    "name": "Arjun Rao",
+    "department": "Platform Engineering",
+    "role": "DevOps Engineer",
+    "manager": "Vikram Singh",
+    "experience_years": 6
+  },
+  {
+    "employee_id": "E010",
+    "name": "Sarah Wilson",
+    "department": "AI Engineering",
+    "role": "AI Manager",
+    "manager": null,
+    "experience_years": 10
+  }
+]

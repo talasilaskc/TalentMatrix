@@ -1,0 +1,62 @@
+[
+  {
+    "employee_id": "E001",
+    "remaining_leaves": 12,
+    "used_leaves": 8,
+    "pending_requests": 1
+  },
+  {
+    "employee_id": "E002",
+    "remaining_leaves": 15,
+    "used_leaves": 5,
+    "pending_requests": 0
+  },
+  {
+    "employee_id": "E003",
+    "remaining_leaves": 10,
+    "used_leaves": 10,
+    "pending_requests": 2
+  },
+  {
+    "employee_id": "E004",
+    "remaining_leaves": 18,
+    "used_leaves": 2,
+    "pending_requests": 0
+  },
+  {
+    "employee_id": "E005",
+    "remaining_leaves": 8,
+    "used_leaves": 12,
+    "pending_requests": 1
+  },
+  {
+    "employee_id": "E006",
+    "remaining_leaves": 14,
+    "used_leaves": 6,
+    "pending_requests": 0
+  },
+  {
+    "employee_id": "E007",
+    "remaining_leaves": 11,
+    "used_leaves": 9,
+    "pending_requests": 1
+  },
+  {
+    "employee_id": "E008",
+    "remaining_leaves": 16,
+    "used_leaves": 4,
+    "pending_requests": 0
+  },
+  {
+    "employee_id": "E009",
+    "remaining_leaves": 9,
+    "used_leaves": 11,
+    "pending_requests": 1
+  },
+  {
+    "employee_id": "E010",
+    "remaining_leaves": 20,
+    "used_leaves": 0,
+    "pending_requests": 0
+  }
+]

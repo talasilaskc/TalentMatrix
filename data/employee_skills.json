@@ -1,0 +1,48 @@
+[
+  {
+    "employee_id": "E001",
+    "skills": ["Python", "TensorFlow", "Machine Learning", "Docker"]
+  },
+  {
+    "employee_id": "E002",
+    "skills": ["Python", "PyTorch", "Deep Learning", "NLP"]
+  },
+  {
+    "employee_id": "E003",
+    "skills": ["Python", "Docker", "Kubernetes", "MLOps"]
+  },
+  {
+    "employee_id": "E004",
+    "skills": ["Python", "Statistics", "Machine Learning", "SQL"]
+  },
+  {
+    "employee_id": "E005",
+    "skills": ["Python", "Machine Learning", "Leadership", "Data Analytics"]
+  },
+  {
+    "employee_id": "E006",
+    "skills": ["AWS", "Terraform", "Kubernetes", "Cloud Architecture"]
+  },
+  {
+    "employee_id": "E007",
+    "skills": ["Python", "LLMs", "RAG", "Vector Databases", "Prompt Engineering"]
+  },
+  {
+    "employee_id": "E008",
+    "skills": ["Python", "Java", "REST APIs", "Git"]
+  },
+  {
+    "employee_id": "E009",
+    "skills": ["Docker", "Kubernetes", "CI/CD", "Linux"]
+  },
+  {
+    "employee_id": "E010",
+    "skills": [
+      "Python",
+      "Leadership",
+      "Project Management",
+      "Machine Learning",
+      "Team Management"
+    ]
+  }
+]

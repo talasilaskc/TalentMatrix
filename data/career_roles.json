@@ -1,0 +1,41 @@
+[
+  {
+    "target_role": "GenAI Engineer",
+    "required_skills": [
+      "Python",
+      "LLMs",
+      "RAG",
+      "Vector Databases",
+      "Prompt Engineering"
+    ]
+  },
+  {
+    "target_role": "AI Architect",
+    "required_skills": [
+      "System Design",
+      "Cloud Architecture",
+      "Leadership",
+      "Machine Learning",
+      "Kubernetes"
+    ]
+  },
+  {
+    "target_role": "MLOps Engineer",
+    "required_skills": [
+      "Python",
+      "Docker",
+      "Kubernetes",
+      "MLOps",
+      "CI/CD"
+    ]
+  },
+  {
+    "target_role": "Engineering Manager",
+    "required_skills": [
+      "Leadership",
+      "Project Management",
+      "Team Management",
+      "Communication"
+    ]
+  }
+]
